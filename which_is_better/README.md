@@ -1,16 +1,21 @@
-# which_is_better
+# Which is better
 
-A new Flutter project.
+This is a Qr code Scanner app built using Flutter.
+
+## Features
+
+- friendly user interface
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Dart SDK (comes with Flutter)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [mabdullahh7853@gmail.com].
+ 
